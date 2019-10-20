@@ -23,6 +23,7 @@ Other programs and scripts are available for:
 * Submitting SLURM jobs (see `scripts/submits-xxx`)
 * Analyzing the data (e.g. computing partition functions)
 
+There can be more similar scripts written in other languages. These are available programs on this project.
 # Building and Unit Testing
 
 Once all dependencies are in installed, simply run `make`.
